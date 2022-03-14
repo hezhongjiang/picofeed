@@ -1,6 +1,6 @@
 {
-    "name": "hezhongjiang/picofeed",
-    "description": "copy from miniflux/picofeed",
+    "name": "skytipper/abcd",
+    "description": "copy from cofeed",
     "type": "library",
     "autoload": {
         "psr-4": {
