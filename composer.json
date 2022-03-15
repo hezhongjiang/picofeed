@@ -1,11 +1,6 @@
 {
-    "name": "hezhongjiang/picofeed",
-    "description": "copy from miniflux/picofeed",
+    "name": "hezhongjiang/miniflux-picofeed",
+    "description": "a copy from miniflux/picofeed",
     "type": "library",
-    "autoload": {
-        "psr-4": {
-            "Hezhongjiang\\Picofeed\\": "src/"
-        }
-    },
     "require": {}
 }
