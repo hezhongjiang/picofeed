@@ -2,7 +2,7 @@
   "name": "hezhongjiang/picofeed",
   "description": "a copy from minifulux/picofeed",
   "type": "library",
-  "license": "BSD",
+  "license": "MIT",
   "minimum-stability": "stable",
   "require": {
     "php": ">=5.6"
