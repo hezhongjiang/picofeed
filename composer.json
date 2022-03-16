@@ -1,6 +1,15 @@
 {
-    "name": "hezhongjiang/miniflux-picofeed",
-    "description": "a copy from miniflux/picofeed",
-    "type": "library",
-    "require": {}
+  "name": "hezhongjiang/picofeed",
+  "description": "a copy from minifulux/picofeed",
+  "type": "library",
+  "license": "BSD",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "HelloWorld\\": "src/"
+    }
+  }
 }
