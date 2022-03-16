@@ -3,13 +3,12 @@
   "description": "a copy from minifulux/picofeed",
   "type": "library",
   "license": "MIT",
-  "minimum-stability": "stable",
   "require": {
     "php": ">=5.6"
   },
   "autoload": {
     "psr-4": {
-      "picofeed\\": "."
+      "picofeed\\": "./"
     }
   }
 }
